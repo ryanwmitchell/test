@@ -5667,10 +5667,10 @@ gatsby-react-router-scroll@^2.1.17:
     scroll-behavior "^0.9.10"
     warning "^3.0.0"
 
-gatsby-source-datocms@^2.1.20:
-  version "2.1.20"
-  resolved "https://registry.yarnpkg.com/gatsby-source-datocms/-/gatsby-source-datocms-2.1.20.tgz#89bcdf0103329c898a486babd8aee98549580d66"
-  integrity sha512-6m2KkJ4RmA44tpYsV8HkDGVOAayYjtjsnzHQsvqd1rJEfcAJrh16SnITolb37/fioHWzbrPpoPDNl87PNQHtoQ==
+gatsby-source-datocms@^2.1.23:
+  version "2.1.23"
+  resolved "https://registry.yarnpkg.com/gatsby-source-datocms/-/gatsby-source-datocms-2.1.23.tgz#eb60644ea0fa40d4c6caf9c2f6ae4c67e6a335cb"
+  integrity sha512-zPPxVmZqdD7O4CXkmuKXVEk1tShuzeFBe8jsjsk0kapxkw/Zj5aMUhsVU/Ub+LBw9inkt9dN0obtKFn05H2H+g==
   dependencies:
     core-js "^3.2.1"
     datocms-client "~3.0.10"
